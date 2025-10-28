@@ -5,7 +5,7 @@
 This library provides robust classes and functions to work with matrices and fractions in C++. It is designed to facilitate complex mathematical computations and ease the process of handling matrices and fractions. The library includes comprehensive features for matrix operations, file I/O for CSV files, and various utility functions for diverse mathematical computations.
 
 <div style="text-align: center;">
-  <img src="./matrix.png" alt="Preview" style="width: 100%;">
+  <img src="./image.png" alt="Preview" style="width: 100%;">
 </div>
 
 ## Features
